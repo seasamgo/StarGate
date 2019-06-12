@@ -12,4 +12,5 @@ Download, navigate to the StarGate folder and run the following from the command
 
     java -jar "dist/StarGate.jar"
 
-
+Requires JDK, includes additional jar files.
+ 
