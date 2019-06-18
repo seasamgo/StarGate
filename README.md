@@ -12,5 +12,5 @@ Download, navigate to the StarGate folder and run the following from the command
 
     java -jar "dist/StarGate.jar"
 
-Requires JDK/JRE, includes additional jar files.
+Requires [JDK/JRE](https://www.oracle.com/technetwork/java/javase/downloads/index.html), includes additional jar files.
  
